@@ -1,0 +1,102 @@
+[
+    {
+        "id": "STU-1001",
+        "full_name": "Hemavarshini",
+        "major": "Civil Engineering",
+        "gpa": 8.87,
+        "extracurriculars": [
+            "Music Club"
+        ],
+        "advising_history_notes": "Student needs career guidance and semester planning."
+    },
+    {
+        "id": "STU-1002",
+        "full_name": "Ishwarya",
+        "major": "Mechanical Engineering",
+        "gpa": 8.92,
+        "extracurriculars": [
+            "NSS"
+        ],
+        "advising_history_notes": "Student needs career guidance and semester planning."
+    },
+    {
+        "id": "STU-1003",
+        "full_name": "Hemavarshini",
+        "major": "Computer Science",
+        "gpa": 6.91,
+        "extracurriculars": [
+            "NSS"
+        ],
+        "advising_history_notes": "Student needs career guidance and semester planning."
+    },
+    {
+        "id": "STU-1004",
+        "full_name": "Anu",
+        "major": "Mechanical Engineering",
+        "gpa": 7.03,
+        "extracurriculars": [
+            "NSS"
+        ],
+        "advising_history_notes": "Student needs career guidance and semester planning."
+    },
+    {
+        "id": "STU-1005",
+        "full_name": "Estherjansie",
+        "major": "Artificial Intelligence",
+        "gpa": 7.7,
+        "extracurriculars": [
+            "Robotics Club"
+        ],
+        "advising_history_notes": "Student needs career guidance and semester planning."
+    },
+    {
+        "id": "STU-1006",
+        "full_name": "Hemavarshini",
+        "major": "Civil Engineering",
+        "gpa": 7.53,
+        "extracurriculars": [
+            "NSS"
+        ],
+        "advising_history_notes": "Student needs career guidance and semester planning."
+    },
+    {
+        "id": "STU-1007",
+        "full_name": "Kaviyashree",
+        "major": "Mechanical Engineering",
+        "gpa": 8.1,
+        "extracurriculars": [
+            "Robotics Club"
+        ],
+        "advising_history_notes": "Student needs career guidance and semester planning."
+    },
+    {
+        "id": "STU-1008",
+        "full_name": "Estherjansie",
+        "major": "Computer Science",
+        "gpa": 9.34,
+        "extracurriculars": [
+            "Robotics Club"
+        ],
+        "advising_history_notes": "Student needs career guidance and semester planning."
+    },
+    {
+        "id": "STU-1009",
+        "full_name": "Ishwarya",
+        "major": "Mechanical Engineering",
+        "gpa": 8.86,
+        "extracurriculars": [
+            "NSS"
+        ],
+        "advising_history_notes": "Student needs career guidance and semester planning."
+    },
+    {
+        "id": "STU-1010",
+        "full_name": "Estherjansie",
+        "major": "Artificial Intelligence",
+        "gpa": 9.72,
+        "extracurriculars": [
+            "Robotics Club"
+        ],
+        "advising_history_notes": "Student needs career guidance and semester planning."
+    }
+]
